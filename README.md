@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando SQL, Python e Java
+- 👩‍💻 Estudando SQL, Python e Java
 - 💬 Pergunte-me sobre tecnologia.
 - ⚡ Gosto de estudar e aprender sobre tecnologia, ciência e inglês.
 
