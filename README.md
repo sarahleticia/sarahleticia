@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Sarah Letícia  👋
 
+<P align="left"> <img src="https://komarev.com/ghpvc/?username=sarahleticia&color=green" aly="Profile views" /> </P>
 
 - 🔭 Hoje trabalho com back-end
 - 👩‍💻 Estudando SQL, Python e Java
