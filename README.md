@@ -3,7 +3,7 @@
 <P align="left"> <img src="https://komarev.com/ghpvc/?username=sarahleticia&color=green" aly="Profile views" /> </P>
 
 - 🔭 Hoje trabalho com back-end
-- 👩‍💻 Estudando SQL, Java e banco de dados.
+- 👩‍💻 Estudando SQL, Java, banco de dados e C#.
 - 💬 Pergunte-me sobre tecnologia.
 - ⚡ Gosto de estudar e aprender sobre tecnologia, ciência e inglês.
 
